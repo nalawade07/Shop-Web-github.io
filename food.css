@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.food span{
+    border-bottom:2px solid orangered;
+}
+.food h3{
+    text-align: center;
+    padding-top:2rem; 
+}

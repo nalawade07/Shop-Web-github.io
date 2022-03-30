@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.price span{
+    border-bottom:2px solid orangered;
+}
+.price h3{
+    text-align: center;
+    padding-top:2rem;
+}
+.p-contain{
+    margin-top:.4rem;
+}
+
+
+.main{
+     background-image:url('background2.jpg');
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+    width:100%;
+    height:auto;
+}
+
+.team img{
+width:250px;
+height:250px;
+border-radius:50%;
+}
+.team-name span{
+    border-bottom:2px solid orangered;
+}
+.team-name h3{
+    text-align: center;
+    padding:2rem; 
+}
+
+
+
+
+/* ************* media query **************** */
+
